@@ -4,6 +4,8 @@
 using Facebook Graph API and extract data using Python
 <h4>facebook python sdk</h4>
 pip install -e git+https://github.com/mobolic/facebook-sdk.git#egg=facebook-sdk
+<h4>twitter</h4>
+easy_install twitter
 
 <h4>Upload ipython notebook directly to github</h4>
 <ol>
